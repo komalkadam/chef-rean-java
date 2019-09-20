@@ -1,4 +1,4 @@
 # chef-rean-java
 
-TODO: Enter the cookbook description here.
+Installing Java Open JDK 1.8 using yum package on centos 7
 
